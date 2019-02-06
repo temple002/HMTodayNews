@@ -1,0 +1,6 @@
+framework module JSONKit_NoArc {
+  umbrella header "JSONKit-NoArc-umbrella.h"
+
+  export *
+  module * { export * }
+}
